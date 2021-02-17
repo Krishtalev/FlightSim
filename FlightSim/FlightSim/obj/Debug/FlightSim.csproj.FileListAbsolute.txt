@@ -1,0 +1,10 @@
+C:\Users\Никита\source\repos\FlightSim\FlightSim\bin\Debug\FlightSim.exe.config
+C:\Users\Никита\source\repos\FlightSim\FlightSim\bin\Debug\FlightSim.exe
+C:\Users\Никита\source\repos\FlightSim\FlightSim\bin\Debug\FlightSim.pdb
+C:\Users\Никита\source\repos\FlightSim\FlightSim\obj\Debug\FlightSim.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\FlightSim\FlightSim\obj\Debug\FlightSim.Form1.resources
+C:\Users\Никита\source\repos\FlightSim\FlightSim\obj\Debug\FlightSim.Properties.Resources.resources
+C:\Users\Никита\source\repos\FlightSim\FlightSim\obj\Debug\FlightSim.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\FlightSim\FlightSim\obj\Debug\FlightSim.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\FlightSim\FlightSim\obj\Debug\FlightSim.exe
+C:\Users\Никита\source\repos\FlightSim\FlightSim\obj\Debug\FlightSim.pdb
